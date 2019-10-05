@@ -1,0 +1,23 @@
+{
+  "name": "serverless-salesforce-web-to-lead",
+  "version": "1.0.0",
+  "description": "A serverless POC, using AWS Lambda and API Gateway, that accepts sales lead info and submits it to Salesforce web-to-lead API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Avila",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "qs": "^6.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9"
+  }
+}

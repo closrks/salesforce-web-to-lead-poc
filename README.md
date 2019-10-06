@@ -1,3 +1,3 @@
-# salesforce web-to-lead lambda POC
+# salesforce web-to-lead POC
 
-A serverless POC, using AWS Lambda and API Gateway, that accepts sales lead info and submits it to Salesforce web-to-lead API.
+A POC that accepts sales lead info and submits it to Salesforce via the [web-to-lead](https://www.salesforce.com/products/guide/lead-gen/web-to-lead/) API.
